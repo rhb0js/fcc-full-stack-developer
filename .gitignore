@@ -1,3 +1,4 @@
 *theory/
 *.txt
+*.md
 *.code-workspace
